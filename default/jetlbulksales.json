@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1758098989132,
+    "description" : "bulk sales",
+    "identifier" : "jetlbulksales",
+    "lastModifiedTimestamp" : 1758098989132,
+    "name" : "j_etl_bulk_sales",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
